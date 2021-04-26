@@ -1,4 +1,4 @@
 {
-    "name": "Project Template",
-    "desc": "A template for prototyping future projects."
+    "name": "Gift Wrapping",
+    "desc": "An implementation of the Gift Wrapping algorithm, which draws a convex hull for a given set of points."
 }
